@@ -1,6 +1,6 @@
 {
   "name": "git-package-version",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "检测 gitlab 仓库 daily 分支下时的版本号是否和 package.json 中的一致",
   "main": "index.js",
   "scripts": {
