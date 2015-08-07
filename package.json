@@ -12,5 +12,8 @@
     "version"
   ],
   "author": "baidi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "~1.2.19"
+  }
 }

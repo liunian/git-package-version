@@ -3,6 +3,4 @@
  */
 var Version = require('./lib/version');
 
-Version.test('./');
-
-
+module.exports = Version;
