@@ -1,0 +1,16 @@
+{
+  "name": "gitlab-version",
+  "version": "1.0.0",
+  "description": "检测 gitlab 仓库 daily 分支下时的版本号是否和 package.json 中的一致",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitlab",
+    "npm",
+    "version"
+  ],
+  "author": "baidi",
+  "license": "ISC"
+}
