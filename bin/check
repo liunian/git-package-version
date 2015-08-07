@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+var Version = require('../index');
+var dir = process.argv.slice(2)[0];
+
+console.assert(dir, 'missing directory path');
+
+Version.test(dir);
