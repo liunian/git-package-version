@@ -11,8 +11,13 @@
     "npm",
     "version"
   ],
-  "author": "baidi",
-  "license": "ISC",
+  "author": "liunian <dengjij@gmal.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:liunian/git-package-version.git"
+  },
+  "homepage": "https://github.com/liunian/git-package-version",
   "devDependencies": {
     "readline-sync": "~1.2.19"
   }
